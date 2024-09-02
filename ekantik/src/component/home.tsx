@@ -5,7 +5,6 @@ import {
   Box,
   Drawer,
   List,
-  ListItem,
   ListItemText,
   ListItemButton,
 } from "@mui/material";
